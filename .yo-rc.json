@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "traningevent",
+    "libraryId": "96770157-faf9-4626-8d68-c56a64337771",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

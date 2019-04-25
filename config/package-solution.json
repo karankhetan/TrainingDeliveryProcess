@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "traningevent-client-side-solution",
+    "id": "96770157-faf9-4626-8d68-c56a64337771",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/traningevent.sppkg"
+  }
+}
